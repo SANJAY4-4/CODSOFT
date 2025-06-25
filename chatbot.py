@@ -17,6 +17,4 @@ def simple_chatbot():
             break
         else:
             print("Chatbot: I'm not sure how to respond to that. Try asking something else.")
-
-# Run the chatbot
 simple_chatbot()
